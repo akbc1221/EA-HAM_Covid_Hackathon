@@ -7,15 +7,15 @@ Sign languages (also known as signed languages) are languages that use manual co
 Content:-
 
 Details of dataset:-
-	Image size: 100 x 100
-	Color space: RGB
-	File format: png
-	Number of classes: 10 (Digits: 0-9)
+	Image size: 100 x 100														
+	Color space: RGB														
+	File format: png                                                                                                                 
+	Number of classes: 10 (Digits: 0-9)                                                                                             
 	Number of participant students: 218
-	Number of samples per student: 10
+	Number of samples per student: 10												
 
 Details of datasets in GitHub Repo:
-	Repo: github.com/ardamavi/Sign-Language-Digits-Dataset
+	Repo: github.com/ardamavi/Sign-Language-Digits-Dataset										
 
 Model used:-
         First layer:                  resnet50 transfer learning model from Imagenet challenge
