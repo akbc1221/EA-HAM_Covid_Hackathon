@@ -7,8 +7,7 @@ Sign languages (also known as signed languages) are languages that use manual co
 Content:-
 
 Details of dataset:-
-	Image size: 100 x 100														
-	Color space: RGB														
+	Image size: 100 x 100															Color space: RGB														
 	File format: png                                                                                                                 
 	Number of classes: 10 (Digits: 0-9)                                                                                             
 	Number of participant students: 218
