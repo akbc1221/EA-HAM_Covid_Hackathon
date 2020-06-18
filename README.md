@@ -17,14 +17,14 @@ Details of datasets in GitHub Repo:
 	Repo: github.com/ardamavi/Sign-Language-Digits-Dataset										
 
 Model used:-
-        First layer:                  resnet50 transfer learning model from Imagenet challenge
+	First layer:		resnet50 transfer learning model from Imagenet challenge
         Fully Connected layers: 2 linear layers with Relu activation and Log likelihood 
-			 loss functions.
-        Optimizer used:	 Adam with a learning rate of .003
-        Python Module:	 PyTorch
+				loss functions.
+				Optimizer used:	 Adam with a learning rate of .003
+        			Python Module:	 PyTorch
 
 Testing Results:-
-        As per results of final epoch:
+	As per results of final epoch:
         Train loss: 0.387  Test loss: 0.743  Test accuracy: 0.793
         
 Code for training and testing on Github:
